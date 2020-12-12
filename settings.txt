@@ -1,0 +1,10 @@
+screenWidth;1920
+screenHeight;1080
+url;https://chalmers.zoom.us/j/62243584287
+delay;7
+left;709
+right;1219
+top;333
+bottom;492
+click x;756
+click y;449
