@@ -9,6 +9,10 @@ from PIL import Image, ImageChops
 import PIL
 from time import sleep
 
+
+
+
+
 import pyautogui
 
 f = open("zoomLinks.txt", "r",encoding="utf-8")
